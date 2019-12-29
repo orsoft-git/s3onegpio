@@ -7,6 +7,7 @@ const FormDigitalWrite = {
     'fr': 'Mettre la pin numérique[PIN]à[ON_OFF]',
     'zh-tw': '腳位[PIN]數位輸出[ON_OFF]',
     'zh-cn': '脚位[PIN]数位输出[ON_OFF]',
+    'ru-ru': 'Установить DO[PIN] в [ON_OFF]',
 };
 
 const FormPwmWrite = {
@@ -16,6 +17,7 @@ const FormPwmWrite = {
     'fr': 'Mettre la pin PWM[PIN]à[VALUE]%',
     'zh-tw': '腳位[PIN]類比輸出[VALUE]%',
     'zh-cn': '脚位[PIN]类比输出[VALUE]%',
+    'ru-ru': 'Установить PWM[PIN] в [VALUE]%',
 };
 
 const FormTone = {
@@ -25,6 +27,7 @@ const FormTone = {
     'fr': 'Définir le buzzer sur la pin[PIN]à[FREQ]Hz pendant[DURATION] ms',
     'zh-tw': '腳位[PIN]播放音調，頻率為[FREQ]時間為[DURATION]',
     'zh-cn': '脚位[PIN]播放音调，频率为[FREQ]时间为[DURATION]',
+    'ru-ru': 'Генерировать частоту [FREQ]Гц в течении [DURATION]мс на DO[PIN]',
 };
 
 const FormServo = {
